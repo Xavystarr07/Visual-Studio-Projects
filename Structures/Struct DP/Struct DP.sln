@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct DP", "Struct DP.csproj", "{EB869C1A-D4E1-4182-909D-6CE7328FA2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB869C1A-D4E1-4182-909D-6CE7328FA2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB869C1A-D4E1-4182-909D-6CE7328FA2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB869C1A-D4E1-4182-909D-6CE7328FA2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB869C1A-D4E1-4182-909D-6CE7328FA2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EDF0E3B-B99D-4E25-B449-364191BD4C8F}
+	EndGlobalSection
+EndGlobal

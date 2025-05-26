@@ -1,0 +1,14 @@
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\bin\Debug\net8.0\String Manipulation.exe
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\bin\Debug\net8.0\String Manipulation.deps.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\bin\Debug\net8.0\String Manipulation.runtimeconfig.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\bin\Debug\net8.0\String Manipulation.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\bin\Debug\net8.0\String Manipulation.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\refint\String Manipulation.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\String Manipulation.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\String Manipulation\obj\Debug\net8.0\ref\String Manipulation.dll

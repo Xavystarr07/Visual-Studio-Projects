@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank Account Interface", "Bank Account Interface.csproj", "{7E1D3BDE-5CF4-4292-925D-7E529A53814B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1D3BDE-5CF4-4292-925D-7E529A53814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1D3BDE-5CF4-4292-925D-7E529A53814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1D3BDE-5CF4-4292-925D-7E529A53814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1D3BDE-5CF4-4292-925D-7E529A53814B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182FAA3D-6E89-4BB3-B315-01375238600E}
+	EndGlobalSection
+EndGlobal

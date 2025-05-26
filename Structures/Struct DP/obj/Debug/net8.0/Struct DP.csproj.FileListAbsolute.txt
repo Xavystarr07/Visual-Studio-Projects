@@ -1,0 +1,14 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\bin\Debug\net8.0\Struct DP.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\bin\Debug\net8.0\Struct DP.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\bin\Debug\net8.0\Struct DP.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\bin\Debug\net8.0\Struct DP.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\bin\Debug\net8.0\Struct DP.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\refint\Struct DP.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\Struct DP.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct DP\obj\Debug\net8.0\ref\Struct DP.dll

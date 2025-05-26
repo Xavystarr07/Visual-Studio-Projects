@@ -1,0 +1,14 @@
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\bin\Debug\net8.0\Animal interface.exe
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\bin\Debug\net8.0\Animal interface.deps.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\bin\Debug\net8.0\Animal interface.runtimeconfig.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\bin\Debug\net8.0\Animal interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\bin\Debug\net8.0\Animal interface.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\refint\Animal interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\Animal interface.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Animal interface\obj\Debug\net8.0\ref\Animal interface.dll

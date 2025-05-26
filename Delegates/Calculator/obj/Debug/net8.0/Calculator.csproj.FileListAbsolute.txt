@@ -1,0 +1,14 @@
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Calculator\obj\Debug\net8.0\ref\Calculator.dll

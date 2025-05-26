@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account Interface ( virtual methods)", "Account Interface ( virtual methods).csproj", "{80094932-5F19-4A73-BDA2-E23F2C00D32A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80094932-5F19-4A73-BDA2-E23F2C00D32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80094932-5F19-4A73-BDA2-E23F2C00D32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80094932-5F19-4A73-BDA2-E23F2C00D32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80094932-5F19-4A73-BDA2-E23F2C00D32A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FEC5B5-77D5-4560-B1BF-55356BB91C8E}
+	EndGlobalSection
+EndGlobal

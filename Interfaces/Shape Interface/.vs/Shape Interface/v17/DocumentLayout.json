@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSCIT Year 3\\Semester 1\\PRO741\\PRO741 Practise codes\\Shape Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74140E78-012B-48F0-B80D-24F9ECA432D3}|Shape Interface.csproj|d:\\bscit year 3\\semester 1\\pro741\\pro741 practise codes\\shape interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74140E78-012B-48F0-B80D-24F9ECA432D3}|Shape Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BSCIT Year 3\\Semester 1\\PRO741\\PRO741 Practise codes\\Shape Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BSCIT Year 3\\Semester 1\\PRO741\\PRO741 Practise codes\\Shape Interface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:18:17.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

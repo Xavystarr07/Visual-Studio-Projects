@@ -1,0 +1,14 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\bin\Debug\net8.0\Struct Person.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\bin\Debug\net8.0\Struct Person.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\bin\Debug\net8.0\Struct Person.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\bin\Debug\net8.0\Struct Person.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\bin\Debug\net8.0\Struct Person.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\refint\Struct Person.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\Struct Person.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Struct Person\obj\Debug\net8.0\ref\Struct Person.dll

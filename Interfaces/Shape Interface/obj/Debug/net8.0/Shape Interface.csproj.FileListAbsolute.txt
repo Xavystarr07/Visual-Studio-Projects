@@ -1,0 +1,28 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\bin\Debug\net8.0\Shape Interface.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\bin\Debug\net8.0\Shape Interface.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\bin\Debug\net8.0\Shape Interface.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\bin\Debug\net8.0\Shape Interface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\bin\Debug\net8.0\Shape Interface.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\refint\Shape Interface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\Shape Interface.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Shape Interface\obj\Debug\net8.0\ref\Shape Interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\bin\Debug\net8.0\Shape Interface.exe
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\bin\Debug\net8.0\Shape Interface.deps.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\bin\Debug\net8.0\Shape Interface.runtimeconfig.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\bin\Debug\net8.0\Shape Interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\bin\Debug\net8.0\Shape Interface.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\refint\Shape Interface.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\Shape Interface.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Shape Interface\obj\Debug\net8.0\ref\Shape Interface.dll

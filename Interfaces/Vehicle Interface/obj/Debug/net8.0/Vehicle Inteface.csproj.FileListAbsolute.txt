@@ -1,0 +1,14 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\bin\Debug\net8.0\Vehicle Inteface.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\bin\Debug\net8.0\Vehicle Inteface.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\bin\Debug\net8.0\Vehicle Inteface.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\bin\Debug\net8.0\Vehicle Inteface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\bin\Debug\net8.0\Vehicle Inteface.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\refint\Vehicle Inteface.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\Vehicle Inteface.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Vehicle Inteface\obj\Debug\net8.0\ref\Vehicle Inteface.dll

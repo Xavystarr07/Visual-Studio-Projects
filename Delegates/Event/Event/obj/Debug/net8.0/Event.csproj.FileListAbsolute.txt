@@ -1,0 +1,14 @@
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\bin\Debug\net8.0\Event.exe
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\bin\Debug\net8.0\Event.deps.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\bin\Debug\net8.0\Event.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\bin\Debug\net8.0\Event.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\refint\Event.dll
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.pdb
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 2\PRO742\CA TEST\Delegates\Event\Event\obj\Debug\net8.0\ref\Event.dll

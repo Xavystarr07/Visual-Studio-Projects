@@ -1,0 +1,21 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\bin\Debug\net8.0\Bank account.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\bin\Debug\net8.0\Bank account.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\bin\Debug\net8.0\Bank account.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\bin\Debug\net8.0\Bank account.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\bin\Debug\net8.0\Bank account.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\refint\Bank account.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\Bank account.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Bank account\obj\Debug\net8.0\ref\Bank account.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\refint\Bank account.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Bank account\obj\Debug\net8.0\Bank account.pdb

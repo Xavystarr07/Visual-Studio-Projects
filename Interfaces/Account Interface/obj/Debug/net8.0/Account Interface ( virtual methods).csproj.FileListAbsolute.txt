@@ -1,0 +1,28 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\refint\Account Interface ( virtual methods).dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Account Interface ( virtual methods)\obj\Debug\net8.0\ref\Account Interface ( virtual methods).dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).exe
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).deps.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).runtimeconfig.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\bin\Debug\net8.0\Account Interface ( virtual methods).pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\refint\Account Interface ( virtual methods).dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\Account Interface ( virtual methods).genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Account Interface ( virtual methods)\obj\Debug\net8.0\ref\Account Interface ( virtual methods).dll

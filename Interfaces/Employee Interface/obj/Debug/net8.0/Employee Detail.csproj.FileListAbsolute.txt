@@ -1,0 +1,14 @@
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\bin\Debug\net8.0\Employee Detail.exe
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\bin\Debug\net8.0\Employee Detail.deps.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\bin\Debug\net8.0\Employee Detail.runtimeconfig.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\bin\Debug\net8.0\Employee Detail.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\bin\Debug\net8.0\Employee Detail.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\refint\Employee Detail.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\Employee Detail.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Employee Detail\obj\Debug\net8.0\ref\Employee Detail.dll

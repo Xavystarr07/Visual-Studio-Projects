@@ -1,0 +1,28 @@
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\bin\Debug\net8.0\Virtual message.exe
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\bin\Debug\net8.0\Virtual message.deps.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\bin\Debug\net8.0\Virtual message.runtimeconfig.json
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\bin\Debug\net8.0\Virtual message.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\bin\Debug\net8.0\Virtual message.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.AssemblyInfoInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.AssemblyInfo.cs
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.csproj.CoreCompileInputs.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\refint\Virtual message.dll
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.pdb
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\Virtual message.genruntimeconfig.cache
+C:\Users\xavii\OneDrive - Richfield Graduate Institute of Technology\Attachments\Virtual message\obj\Debug\net8.0\ref\Virtual message.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\bin\Debug\net8.0\Virtual message.exe
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\bin\Debug\net8.0\Virtual message.deps.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\bin\Debug\net8.0\Virtual message.runtimeconfig.json
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\bin\Debug\net8.0\Virtual message.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\bin\Debug\net8.0\Virtual message.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.AssemblyInfoInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.AssemblyInfo.cs
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.csproj.CoreCompileInputs.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\refint\Virtual message.dll
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.pdb
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\Virtual message.genruntimeconfig.cache
+D:\BSCIT Year 3\Semester 1\PRO741\PRO741 Practise codes\Virtual message\obj\Debug\net8.0\ref\Virtual message.dll
